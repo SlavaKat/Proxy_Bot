@@ -242,7 +242,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "FreeProxy Умный выбор",
+  "remarks": "FreeProxy",
   "routing": {
     "balancers": [
       {
